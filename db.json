@@ -1,0 +1,16 @@
+{
+  "students":[
+    {
+      "Name": "Anna",
+      "item": "4"
+    },
+    {
+      "Name": "Vasia",
+      "item": "5"
+    },
+    {
+      "Name": "Lena",
+      "item": "3"
+    }
+  ]
+}
